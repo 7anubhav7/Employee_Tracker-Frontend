@@ -39,7 +39,7 @@ A modern, responsive single-page web application for tracking employee tasks and
    ```
 4. **Start the development server:**:
    ```bash
-   npm start
+   npm run start
    ```
 5. **Open your browser and visit:**:
    ```bash
@@ -48,10 +48,16 @@ A modern, responsive single-page web application for tracking employee tasks and
 
 ### Available Scripts
 
-- npm start - Runs the app in development mode
+- npm run start - Runs the app in development mode
 - npm test - Launches the test runner
 - npm run build - Builds the app for production
 - npm run eject - **Note: this is irreversible**
+
+## Application Images
+
+![](images/s1.png)
+![](images/s2.png)
+![](images/s3.png)
 
 ## Framework and Libraries Used
 
