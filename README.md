@@ -55,9 +55,9 @@ A modern, responsive single-page web application for tracking employee tasks and
 
 ## Application Images
 
-![](images/s1.png)
-![](images/s2.png)
-![](images/s3.png)
+![](images/s1.jpg)
+![](images/s2.jpg)
+![](images/s3.jpg)
 
 ## Framework and Libraries Used
 
