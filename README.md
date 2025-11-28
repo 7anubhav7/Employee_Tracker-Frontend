@@ -23,6 +23,12 @@ A modern, responsive single-page web application for tracking employee tasks and
 
 1. **Clone or download the project files** to your local machine
 
+   ```bash
+   git clone <repository-url>
+   cd Employee_Tracker-Frontend
+   npm install
+   ```
+
 2. **Navigate to the project directory**:
    ```bash
    cd employee-tracker
@@ -71,23 +77,17 @@ A modern, responsive single-page web application for tracking employee tasks and
 
 ## Project Structure
 
+```text
 src/
-
 ├── components/
-
-│ ├── Dashboard.js # Statistics and overview component
-
-│ ├── EmployeeList.js # Employee and task listing with filtering
-
-│ └── AddTaskForm.js # Form for adding new tasks
-
-├── App.js # Main application component
-
-├── App.css # Application styles
-
-├── index.js # Application entry point
-
-└── index.css # Global styles
+│   ├── Dashboard.js          # Statistics and overview component
+│   ├── EmployeeList.js       # Employee and task listing with filtering
+│   └── AddTaskForm.js        # Form for adding new tasks
+├── App.js                    # Main application component
+├── App.css                   # Application styles
+├── index.js                  # Application entry point
+└── index.css                 # Global styles
+```
 
 ## Assumptions Made
 
